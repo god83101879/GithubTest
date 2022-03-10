@@ -13,6 +13,7 @@ namespace GithubTest
             int x = 1;
             int y = 2;
             string aaa = "ccc";
+            string bbb = "ddd";
             Console.WriteLine();
             Console.WriteLine();
         }
