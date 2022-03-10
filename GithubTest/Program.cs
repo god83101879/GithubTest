@@ -12,7 +12,7 @@ namespace GithubTest
         {
             int x = 1;
             int y = 2;
-
+            string aaa = "ccc";
             Console.WriteLine();
             Console.WriteLine();
         }
