@@ -11,6 +11,8 @@ namespace GithubTest
         static void Main(string[] args)
         {
             int x = 1;
+            int y = 234;
+            int z = 345;
             int y = 2;
             string aaa = "ccc";
             string bbb = "ddd";
